@@ -1,20 +1,21 @@
 <p align="center">
   <a href="https://bamolitho.github.io/portfolio/">
-    <img src="./Images/website.jpeg" width="40" />
+    <img src="./Images/website.jpeg" width="150" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Bamolitho">
-    <img src="./Images/github.png" width="40" />
+    <img src="./Images/github.png" width="150" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amolithobalde/">
-    <img src="./Images/linkedin.png" width="40" />
+    <img src="./Images/linkedin.png" width="200" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://bamolitho.github.io/portfolio/article">
-    <img src="./Images/blog.jpeg" width="40" />
+    <img src="./Images/blog.jpeg" width="150" />
   </a>
 </p>
+
 
 
 <p align="center">
