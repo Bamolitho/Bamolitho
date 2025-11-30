@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://yourwebsite.com">
+  <a href="https://bamolitho.github.io/portfolio/">
     <img src="./Images/website.jpeg" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
