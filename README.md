@@ -11,7 +11,7 @@
     <img src="./Images/linkedin.png" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://bamolitho.github.io/portfolio">
+  <a href="https://bamolitho.github.io/portfolio/article">
     <img src="./Images/blog.jpeg" width="40" />
   </a>
 </p>
