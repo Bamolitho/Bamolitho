@@ -56,7 +56,7 @@ If you want to see more, feel free to explore my repositories — **I publish a 
 
 I regularly publish write-ups, research notes, and technical breakdowns. Some examples:
 
-- Faut-il encore savoir coder ? — *[link](https://bamolitho.github.io/portfolio/savoir_coder.html)*  
+- Faut-il encore savoir coder ? — *[link](https://bamolitho.github.io/portfolio/Blog/savoir_coder.html)*  
 - More coming soon…
 
 ---
