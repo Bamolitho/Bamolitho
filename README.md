@@ -11,7 +11,7 @@
     <img src="./Images/linkedin.png" width="200" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://bamolitho.github.io/portfolio/article">
+  <a href="https://bamolitho.github.io/portfolio/Blog/">
     <img src="./Images/blog.jpeg" width="150" />
   </a>
 </p>
@@ -56,7 +56,7 @@ If you want to see more, feel free to explore my repositories — **I publish a 
 
 I regularly publish write-ups, research notes, and technical breakdowns. Some examples:
 
-- Faut-il encore savoir coder ? — *[link](https://bamolitho.github.io/portfolio/article)*  
+- Faut-il encore savoir coder ? — *[link](https://bamolitho.github.io/portfolio/savoir_coder.html)*  
 - More coming soon…
 
 ---
